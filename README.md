@@ -19,6 +19,6 @@ This book is a **comprehensive, student-friendly guide** covering everything fro
 
 ---
 
-📥 **[Download the Full PDF Here](your_download_link)**  
+📥 **[[Download the Full PDF Here](https://drive.google.com/file/d/18svxtHLMDiEXos6tFleZHarM6d4AWHl7/view?usp=sharing)]**  
 
 ⭐ If you find this project useful, don’t forget to star the repo and share it with your friends!  
